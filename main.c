@@ -3,8 +3,8 @@
 
 int main() 
 {
-	int s = sum(100);
-		printf("%d",sum);
+	int s =  sum(100);
+	printf("%d\n",s);
 	return 0;
 }
 
